@@ -32,7 +32,7 @@ System implementation, end-to-end integration, and testing/validation phases, wi
 - `Smart-Attendance-System-Final-Report.pdf` - the team's Fall 2025 final report (19 pages). Student IDs and personal data removed for publication.
 
 ## Project status
-The graduation project ran across two semesters: this Fall 2025 report covers the requirements, design, and fall-semester progress; the system was then implemented in the following semester (Spring 2026), completing the project.
+This repository holds the Fall 2025 report only. It covers requirements, design and fall-semester progress. Per the report, implementation, integration and testing were planned for Spring 2026. This repository does not document that implementation.
 
 ## Notes
 - This repository contains the Fall 2025 project report only. Implementation code is not included here; the report's appendix references the team's shared repository under a teammate's account.
